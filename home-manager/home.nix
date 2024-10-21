@@ -59,6 +59,7 @@
     btop
     nodejs
     celluloid
+    wakatime
     # Use zed-editor from unstable
     (inputs.nixpkgs-unstable.legacyPackages.x86_64-linux.zed-editor)
   ];
