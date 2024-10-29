@@ -59,8 +59,9 @@
     btop
     nodejs
     celluloid
-    wakatime
     github-desktop
+    nixd
+    python3
     # Use zed-editor from unstable
     (inputs.nixpkgs-unstable.legacyPackages.x86_64-linux.zed-editor)
   ];
